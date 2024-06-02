@@ -74,4 +74,4 @@ docker container stop registry && docker container rm -v registry
 ## Next
 
 You should now read the [detailed introduction about the registry](about),
-or jump directly to [deployment instructions](about/deploying).
+or jump directly to [deployment instructions](about/deploying.md).
